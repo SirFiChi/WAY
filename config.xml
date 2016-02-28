@@ -1,0 +1,7 @@
+<plugin name="fi.avaus.cordova.geolocation" spec="0.3.11" source="pgb" />
+<plugin name="com.badrit.backbutton" spec="0.1.0" source="pgb" />
+<plugin name="nl.x-services.plugins.sslcertificatechecker" spec="3.3.1" source="pgb" />
+<plugin name="com.plugin.datepicker" spec="0.4.0" source="pgb" />
+<plugin name="com.jmi2.cordova.geolocation" spec="0.3.15" source="pgb" />
+<plugin name="br.com.paveisitemas.splashscreen" spec="2.1.1" source="pgb" />
+<plugin name="de.appplant.cordova.plugin.local-notification" spec="0.8.1" source="pgb" />
