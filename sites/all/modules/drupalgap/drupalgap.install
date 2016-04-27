@@ -1,0 +1,9 @@
+<?php
+
+/**
+ * Implements hook_uninstall().
+ */
+function drupalgap_uninstall() {
+  variable_del('drupalgap_sdk_dir');
+  variable_del('drupalgap_sdk_installed');
+}
