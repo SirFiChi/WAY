@@ -23,7 +23,10 @@ INSTRUCTIONS
 4. User: admin // Pass: adminnimda
 5. Start developing ;)
 
-
+6. Install chrome (if you don't use it already)
+7. Install the Ripple-AddOn for Chrome (http://emulate.phonegap.com)
+8. Visit your website (http://YOUR.SITE/mobile-application/index.html)
+9. Activate the Ripple-AddOn
 
 GOALS
 =====
